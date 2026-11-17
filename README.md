@@ -1,6 +1,4 @@
-# AssistGen —— 基于大语言模型构建的智能客服系统
-
-![AssistGen](docs/banner.svg)
+基于大语言模型构建的智能客服系统
 
 一个基于 FastAPI + Vue 3 的前后端分离智能客服系统，覆盖 Agent 与 RAG 在客服场景的主流落地形态。
 支持 DeepSeek 在线 API 与本地 Ollama 两类模型服务，包含通用问答、深度思考、联网检索、本地知识库问答，
